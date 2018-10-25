@@ -1,0 +1,46 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap":"on",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'DejaVu Sans Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Default Light+",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": false,
+    "editor.rulers": [128],
+    "markdown-pdf.highlightStyle": "github.css",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "markdown-pdf.margin.bottom": "1cm",
+
+  // Page Option. Border left. units: mm, cm, in, px
+  "markdown-pdf.margin.left": "0.5cm",
+
+  // Page Option. Border right. units: mm, cm, in, px
+  "markdown-pdf.margin.right": "0.5cm",
+
+  // Page Option. Border Top. units: mm, cm, in, px
+  "markdown-pdf.margin.top": "1.5cm",
+  "gitlens.historyExplorer.enabled": true,
+  "breadcrumbs.enabled": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "terminal.explorerKind": "external",
+  "files.associations": {
+    "*.java": "plaintext"
+  },
+  "[plaintext]": {
+    "editor.tabSize": 4
+  },
+  "diffEditor.renderSideBySide": false
+}
